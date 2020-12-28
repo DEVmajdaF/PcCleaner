@@ -1,0 +1,32 @@
+﻿<Window x:Class="updaterdemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:updaterdemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid OpacityMask="Black">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="White" Offset="0.003"/>
+                <GradientStop Color="#FF007ACC" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button
+            Style="{StaticResource round_btn}"
+            Name="update_btn"
+            Content="Update" 
+            BorderBrush="White"
+            Foreground="#FF1C89D2"
+            FontSize="24"  Margin="82,234,512,140" Background="{x:Null}" Click="update_btn_Click_1" />
+        <ProgressBar HorizontalAlignment="Left" Height="16" Margin="0,403,0,0" VerticalAlignment="Top" Width="792" Foreground="#FF1987D1" Background="#FF84BFE6"/>
+        <TextBlock HorizontalAlignment="Left" Margin="82,135,0,0" TextWrapping="Wrap" Text="UPDATE YOUR APPLICATION" VerticalAlignment="Top" Width="309" Height="33" FontSize="24" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="82,168,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="522" Height="33" FontSize="16" Foreground="White"><Run Text="C"/><Run Text="lick update to start updat"/><Run Text="ing"/><Run Text=" your new version "/></TextBlock>
+
+
+    </Grid>
+
+
+
+</Window>

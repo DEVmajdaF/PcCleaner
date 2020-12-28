@@ -1,0 +1,15 @@
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\bin\Debug\updaterdemo.exe.config
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\bin\Debug\updaterdemo.exe
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\bin\Debug\updaterdemo.pdb
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\obj\Debug\MainWindow.g.cs
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\obj\Debug\App.g.cs
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\obj\Debug\updaterdemo_MarkupCompile.cache
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\obj\Debug\updaterdemo_MarkupCompile.lref
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\obj\Debug\App.baml
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\obj\Debug\MainWindow.baml
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\obj\Debug\updaterdemo.g.resources
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\obj\Debug\updaterdemo.Properties.Resources.resources
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\obj\Debug\updaterdemo.csproj.GenerateResource.cache
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\obj\Debug\updaterdemo.csproj.CoreCompileInputs.cache
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\obj\Debug\updaterdemo.exe
+C:\Users\youcode\source\repos\WpfApp1\updaterdemo\obj\Debug\updaterdemo.pdb
